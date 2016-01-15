@@ -1,0 +1,19 @@
+{
+  "name": "formstone-grid",
+  "version": "0.8.35",
+  "description": "The Grid component of Formstone",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apercu/Formstone-Grid.git"
+  },
+  "keywords": [
+    "formstone"
+  ],
+  "author": "Ben Plum <mr@benplum.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apercu/Formstone-Grid/issues"
+  },
+  "homepage": "https://github.com/Apercu/Formstone-Grid#readme"
+}
